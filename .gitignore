@@ -45,3 +45,4 @@ package-lock.json
 
 sfdx-source/group*
 research/
+xml/*
